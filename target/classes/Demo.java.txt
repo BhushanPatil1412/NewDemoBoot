@@ -1,4 +1,16 @@
 public class Demo {
 
-main
+public static void main (String aargd[] {
+)
+bb
+void addm1() {
+
+
+
+}
+
+void m2() {
+
+
+}
 }
