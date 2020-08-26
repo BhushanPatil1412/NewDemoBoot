@@ -2,7 +2,7 @@ public class Demo {
 
 public static void main (String aargd[] {
 )
-bb
+fxzcvdghjh
 void addm1() {
 
 
@@ -10,7 +10,7 @@ void addm1() {
 }
 
 void m2() {
-
+syso("add newroject file in p")
 
 }
 }
